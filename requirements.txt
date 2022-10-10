@@ -1,4 +1,7 @@
-Pillow==9.2.0
-requests==2.27.1
-streamlit==1.13.0
-streamlit_lottie==0.0.3
+email.mime
+Pillow
+shutil
+requests
+turtle
+streamlit
+streamlit_lottie
