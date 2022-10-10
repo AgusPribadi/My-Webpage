@@ -1,7 +1,4 @@
-email.mime
 Pillow
-shutil
 requests
-turtle
 streamlit
-streamlit_lottie
+streamlit-lottie
